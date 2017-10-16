@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="40px" viewBox="0 0 139 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>white logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header/Dark" transform="translate(-79.000000, -15.000000)">
+            <g id="Header/Light">
+                <g id="white-logo" transform="translate(79.000000, 15.000000)">
+                    <text id="AutoGov" font-family="OpenSans, Open Sans" font-size="36" font-weight="normal" letter-spacing="-2" fill="#FFFFFF">
+                        <tspan x="6" y="39">AutoGo</tspan>
+                        <tspan x="121.283203" y="39">v</tspan>
+                    </text>
+                    <circle id="Oval" fill="#86EDED" cx="2.5" cy="20.5" r="2.5"></circle>
+                    <circle id="Oval-Copy" fill="#30D8D7" cx="5.5" cy="12.5" r="3.5"></circle>
+                    <circle id="Oval-Copy-2" fill="#0CCCCC" cx="12" cy="5" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
